@@ -1,5 +1,4 @@
 # FASHION-MNIST-CLASSIFICATION
-
 The Fashion MNIST classification project is a deep learning project that aims to classify images
 of clothing items into their respective categories using a convolutional neural network (CNN).
 The dataset used for this project is the Fashion MNIST dataset, which consists of 70,000
